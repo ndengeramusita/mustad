@@ -1,0 +1,49 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(93, 93, 163);
+    background-color: bisque(207, 140 ,40);   
+}
+
+#h1styles{
+    color:brown,(15,27,95),
+    font-family'courier new,courier, monospace,
+    text-align center,
+
+}
+
+#h2style{
+    background-color:rgba(1, 61, 46, 0.651);
+    font-size: 24px;
+
+}
+p{
+    color: black;
+}
+
+
+.List-styles{
+    list-style: disc;
+   margin-bottom: 30px;
+   list-style-type: none;
+
+}
+ol li a{
+    text-decoration-color: none;
+
+    }
+    maindiv{
+        background-color: azure;
+    width: 70;
+    margin-left: 30%;
+    padding: 10px;
+}
+.image{
+width: 100%;
+}
+#h1styles{
+    margin-top: 25px;  
+}
+div{
+    width: 200px;
+    margin-right: 200px;
+}
